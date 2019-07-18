@@ -1,5 +1,3 @@
-
-#https://drd.sh/4NsxpG/
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import json
@@ -45,9 +43,9 @@ class Dashbot:
         first_names = ["James",'Harry','John','Brandon','Ryan','Kevin','Chris','Richard', 'Louis', 'Jacob']
         last_names = ['Lee','Oh','Park','Bom','Chen','Lu','Kim', 'Jung','Choi']
 
-        #referal_link = input("enter referal link: ")
+        referal_link = input("enter referal link: ")
 
-        self.driver.get("https://drd.sh/ZeDvbN/")
+        self.driver.get(referal_link)
         try:
             # wait for input to load
             firstname_input = WebDriverWait(self.driver, 3).until(
@@ -105,6 +103,6 @@ class Dashbot:
 
 bot = Dashbot()
 bot.generate()
-time.sleep(5)
+time.sleep(10)
 
 print("compiled")
