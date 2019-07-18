@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dash-bot-238522",
+  "private_key_id": "41cc020579966cf4006c71ed03d95ef4235f8962",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCfeXqSsIHsjpa8\n0FVaEcUvzhDRTqndvsMHWXT+kkQaK1Du3uGjQ2Fz/nYMJk6blivzd07JMR8SNic5\nw48rVo4zasDRzpje075qaoPM6k+ALydDNeAohQLspT/Cfh2Sg0FDADidKh7P1cug\nhFfg7GlPlF45RqyFlWhsFDokevvuQ/JjtMfBQLuEOl7ZJnb4e70xWjEiULce0T8A\nh93FM+1JBa7Qerrzrd50Vf1+MUpwwKQw/Iig0U7sDABWB+MttoTX1yqzOB+ltpd1\nSPn9Uh46tt2uXC/rwXVzGtplGaaQimLuCoEbQpuJjaVPHu7WSbvFZOHvZcewPEeW\np8d/cwLDAgMBAAECggEAMiMDAjMz5ac+hMYKz3JeyBTE/Mj6ZpiewCTDv3VEq+WK\nYE76KVX5wXnyqwcwF4Iy9yw/PMmQty0HUAXHcRyZQFkDnfKR5Rw09UffgAD6VZZ9\nhYfenV6T+MpLLV5w9asGTYY4RlEDttvEVQbGihRJV5eRt/gcLTM3zSLe1LFFmzaK\nHJtQmZikNcFCNAmZtcj0btgflKrdbe6l7lPE1o/13jh0LHBWaDLM6dM8ZWsNZUH2\n0gLQHUV4PMG/E36eVJkaboOZmC42s8mNvdcMXMMiHcVX5gDw/29F4RYw8jE8+nTD\nCYd3dyOt+P8JRcofExCdweqVWQ7NXQDB3SwulnNNQQKBgQDYEbAN4XiElEoKUqbE\n4TbrHbWnPI/PeThQidpeJF9luBnZdSRVIe9zAG3FCLJhpd+82wneyLkE0bjwAMJa\nqZdMxEy82aJIknAZL+ZAanrn+rr9QapYu2Fo7BJSF8ry7kzHjfKeA+YHV8H93nPl\nbDYx8y2H9huYpnrGjOjfjlnSWwKBgQC88kfBUVQ+gu4xkiF+gsjX8ZeJfXRXm+e0\nzO8pUlhs8zJ5zMtN6ErOS+XB990BJCVjVdQFvJdzYAcTct8H9EzBZlBtzY9+Fs0C\nemeeJF2pcPG3oTdYQLkLLl6JSov9sG7XFc/PoGSEVQUHP+u79+veRzQhUj/Q9czZ\nenzPKLAtuQKBgQDOsHzdimYjTUdWgKIPi/FhEFaI2CIpsifwwy4lCF5Ji8cOgkRz\nO7c3J53Z8evSBT72BgJ3H0P+HDDxRYil+b1GLjHKJdZb3dll/rAfxrwz1WGyinJN\n11HjcJBF/4SgxtyjuGHyToBpXcWw+G+dc9qUBa/0c7UKXZbtADZ0RFQgKQKBgQCv\njUAkGod2aTocbpSWMbegA8TzJs/g0mcPMlWHhA3KdI9SYXgHk6tlT1lSxhPeCpJ+\nX/FVvyrMNM1+QX19q3thOcnCq3oGAfNKuSXq5gjr9JdxMOX2JnSHMfb+AnhdJf9l\n8csaMwERftjkKnzBMZFB/dAuoXfPk4FYExlBdKF0aQKBgQDFjJ9g3CikaM7ognGs\no21pOnvlWdnT2Ry8XxtADXFzFvseeJgklNViHuyf+XMLs7yZ9ZAm+DNus27kV56w\nXcxiUI6H7H9sGdiAEvB/5YC4zaASdh5nB0dLdXSJ8jDk/23JjM1YdojxLI7WZTVH\nUAMfZ+XNf+IykotOpcNf4lk5Nw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dasher@dash-bot-238522.iam.gserviceaccount.com",
+  "client_id": "103273262271810933946",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dasher%40dash-bot-238522.iam.gserviceaccount.com"
+}
