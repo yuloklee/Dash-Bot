@@ -1,5 +1,5 @@
 # Dash Bot
- A script to ease the process of automating Door Dash accounts.
+ A script to ease the process of creating Door Dash accounts.
  
 ## Note
 This script was made purely for educational purposes. Please use at your own risk.
