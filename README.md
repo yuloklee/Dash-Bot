@@ -2,7 +2,7 @@
  A script to ease the process of creating Door Dash accounts.
  
 ## Note
-This script was made purely for educational purposes. Please use at your own risk.
+This script was made purely for educational purposes. It may not work as intended, please use at your own risk.
 
 
 ## Build Instructions
